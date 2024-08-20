@@ -6,3 +6,5 @@ Welcome to my repository for the Sabudh Coding Challenge - course Work 1, which 
 
 Welcome to my repository for the Sabudh Coding Challenge - course Work 2, which took place from Aug 6, 2024. In this challenge, I solved various problems, of Tuples, Dict, List, and Various Problems of Numpy . I also pratice n a dataset by cleaning that dataset using pandas 
 
+# # Sabudh Coding Challenge - Course Work 3
+Welcome to my repository for the Sabudh Coding Challenge - course Work , which took place from Aug 12 and 13, 2024. In this challenge, I solved various problems, of Data Structures and Algorithm, and Various Problems of OOPS Concept . 
