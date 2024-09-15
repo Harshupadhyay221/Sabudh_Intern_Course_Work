@@ -11,3 +11,5 @@ Welcome to my repository for the Sabudh Coding Challenge - course Work , which t
 
 # Sabudh Coding Challenge - Course Work 4 
 Welcome to my repository for the Sabudh Coding Challenge - course Work , which took place from Aug 21 and 2024. In this challenge, I solved various problems, of Data Structures and Algorithm, and complete an assignment of ML.
+# Sabudh Coding Challenge - Course Work 6
+Welcome to my repository for the Sabudh Coding Challenge - course Work , which took place from Aug 29 and 2024. In this challenge, I solved various problems, of Data Structures and Algorithm,with a topic of Linked List
