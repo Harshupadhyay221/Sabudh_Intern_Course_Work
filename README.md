@@ -24,3 +24,6 @@ Welcome to my repository for the Sabudh Coding Challenge - course Work , which t
 ## Sabudh Coding Challenge - Course Work 10
 Welcome to my repository for the Sabudh Coding Challenge - course Work , which took place from sep 27 and 2024. In this challenge, I solved various problems, of Data Structures and Algorithm,with a topic of Linked List,array,strings etc.
 
+## Sabudh Coding Challenge - Course Work 11
+Welcome to my repository for the Sabudh Coding Challenge - course Work , which took place from oct 14 and 2024. In this challenge, I create a Machine Learning Model on a datset, And predict the market value of a football player
+
